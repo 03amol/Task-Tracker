@@ -55,4 +55,4 @@ Tasks are stored in the local `tasks.json` file. Each task object includes:
 * `updatedAt`: Timestamp of last modification
 
 ### Project Page URL
-[\[**`https://roadmap.sh/projects/task-tracker**\]]
+**`https://roadmap.sh/projects/task-tracker**
