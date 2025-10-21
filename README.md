@@ -12,8 +12,8 @@ A simple Command Line Interface (CLI) application built with Java to manage a to
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <YOUR_PROJECT_URL>
-    cd <your-project-directory>
+    git clone 
+    cd 
     ```
 
 2.  **Compile the Java Files:**
